@@ -1,11 +1,11 @@
 {
-  "name": "project-WatchCharm",
+  "name": "project-watch-charm",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-WatchCharm/",
+    "build": "vite build --base=/project-watch-charm/",
     "preview": "vite preview"
   },
   "devDependencies": {
